@@ -1,6 +1,6 @@
 # Atliq Hardware Sales Dashboard
 
-This project was done as a part of code basics resume project challenge.
+This project was done as a part of codebasics resume project challenge.
 
 Live Dashboard - [Click Here!](https://www.novypro.com/project/abrarkhan)
 
